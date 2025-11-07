@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\C# on VSC\MyDVLD\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\C# on VSC\MyDVLD\obj\Debug\MyDVLD.frmManagePeople.resources
+C:\Users\USER\Desktop\C# on VSC\MyDVLD\obj\Debug\MyDVLD.Properties.Resources.resources
+C:\Users\USER\Desktop\C# on VSC\MyDVLD\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\C# on VSC\MyDVLD\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C# on VSC\MyDVLD\bin\Debug\MyDVLD.exe.config
+C:\Users\USER\Desktop\C# on VSC\MyDVLD\bin\Debug\MyDVLD.exe
+C:\Users\USER\Desktop\C# on VSC\MyDVLD\bin\Debug\MyDVLD.pdb
+C:\Users\USER\Desktop\C# on VSC\MyDVLD\bin\Debug\BusinessLayer.dll
+C:\Users\USER\Desktop\C# on VSC\MyDVLD\bin\Debug\DataAccsessLayer.dll
+C:\Users\USER\Desktop\C# on VSC\MyDVLD\bin\Debug\BusinessLayer.pdb
+C:\Users\USER\Desktop\C# on VSC\MyDVLD\bin\Debug\DataAccsessLayer.pdb
+C:\Users\USER\Desktop\C# on VSC\MyDVLD\obj\Debug\Presenta.9C561136.Up2Date
+C:\Users\USER\Desktop\C# on VSC\MyDVLD\obj\Debug\MyDVLD.exe
+C:\Users\USER\Desktop\C# on VSC\MyDVLD\obj\Debug\MyDVLD.pdb
+C:\Users\USER\Desktop\C# on VSC\MyDVLD\obj\Debug\MyDVLD.exe.config
+C:\Users\USER\Desktop\C# on VSC\MyDVLD\obj\Debug\MyDVLD.ctrlShowInfo.resources
