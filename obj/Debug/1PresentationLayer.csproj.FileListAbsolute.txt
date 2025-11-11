@@ -25,3 +25,30 @@ C:\Users\USER\Desktop\C# on VSC\MyDVLD\obj\Debug\MyDVLD.User.frmLogin.resources
 C:\Users\USER\Desktop\C# on VSC\MyDVLD\obj\Debug\MyDVLD.User.ctrlShowUserInfo.resources
 C:\Users\USER\Desktop\C# on VSC\MyDVLD\obj\Debug\MyDVLD.User.frmCurrentUserInfo.resources
 C:\Users\USER\Desktop\C# on VSC\MyDVLD\obj\Debug\MyDVLD.User.frmChangePassword.resources
+C:\Users\USER\Desktop\MyDVLD\DVLD\bin\Debug\MyDVLD.exe.config
+C:\Users\USER\Desktop\MyDVLD\DVLD\bin\Debug\MyDVLD.exe
+C:\Users\USER\Desktop\MyDVLD\DVLD\bin\Debug\MyDVLD.pdb
+C:\Users\USER\Desktop\MyDVLD\DVLD\bin\Debug\BusinessLayer.dll
+C:\Users\USER\Desktop\MyDVLD\DVLD\bin\Debug\DataAccsessLayer.dll
+C:\Users\USER\Desktop\MyDVLD\DVLD\bin\Debug\BusinessLayer.pdb
+C:\Users\USER\Desktop\MyDVLD\DVLD\bin\Debug\DataAccsessLayer.pdb
+C:\Users\USER\Desktop\MyDVLD\DVLD\obj\Debug\1PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\MyDVLD\DVLD\obj\Debug\MyDVLD.exe.config
+C:\Users\USER\Desktop\MyDVLD\DVLD\obj\Debug\MyDVLD.frmMain.resources
+C:\Users\USER\Desktop\MyDVLD\DVLD\obj\Debug\MyDVLD.frmtester.resources
+C:\Users\USER\Desktop\MyDVLD\DVLD\obj\Debug\MyDVLD.User.frmLogin.resources
+C:\Users\USER\Desktop\MyDVLD\DVLD\obj\Debug\MyDVLD.ctrlShowInfo.resources
+C:\Users\USER\Desktop\MyDVLD\DVLD\obj\Debug\MyDVLD.People.Controls.ctrlShowInfoWithFilter.resources
+C:\Users\USER\Desktop\MyDVLD\DVLD\obj\Debug\MyDVLD.frmAddUpdatePerson.resources
+C:\Users\USER\Desktop\MyDVLD\DVLD\obj\Debug\MyDVLD.People.frmFindPerson.resources
+C:\Users\USER\Desktop\MyDVLD\DVLD\obj\Debug\MyDVLD.frmManagePeople.resources
+C:\Users\USER\Desktop\MyDVLD\DVLD\obj\Debug\MyDVLD.People.frmShowPersonInfo.resources
+C:\Users\USER\Desktop\MyDVLD\DVLD\obj\Debug\MyDVLD.Properties.Resources.resources
+C:\Users\USER\Desktop\MyDVLD\DVLD\obj\Debug\MyDVLD.User.ctrlShowUserInfo.resources
+C:\Users\USER\Desktop\MyDVLD\DVLD\obj\Debug\MyDVLD.User.frmChangePassword.resources
+C:\Users\USER\Desktop\MyDVLD\DVLD\obj\Debug\1PresentationLayer.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\MyDVLD\DVLD\obj\Debug\1PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\MyDVLD\DVLD\obj\Debug\1Present.CD3540EC.Up2Date
+C:\Users\USER\Desktop\MyDVLD\DVLD\obj\Debug\MyDVLD.exe
+C:\Users\USER\Desktop\MyDVLD\DVLD\obj\Debug\MyDVLD.pdb
+C:\Users\USER\Desktop\MyDVLD\DVLD\obj\Debug\MyDVLD.User.frmShowUserInfo.resources

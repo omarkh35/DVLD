@@ -7,3 +7,12 @@ C:\Users\USER\Desktop\C# on VSC\MyDVLD\BusinessLayer\obj\Debug\BusinessLayer.csp
 C:\Users\USER\Desktop\C# on VSC\MyDVLD\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
 C:\Users\USER\Desktop\C# on VSC\MyDVLD\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Users\USER\Desktop\C# on VSC\MyDVLD\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\USER\Desktop\MyDVLD\DVLD\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\USER\Desktop\MyDVLD\DVLD\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\USER\Desktop\MyDVLD\DVLD\BusinessLayer\bin\Debug\DataAccsessLayer.dll
+C:\Users\USER\Desktop\MyDVLD\DVLD\BusinessLayer\bin\Debug\DataAccsessLayer.pdb
+C:\Users\USER\Desktop\MyDVLD\DVLD\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\MyDVLD\DVLD\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\MyDVLD\DVLD\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\Users\USER\Desktop\MyDVLD\DVLD\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\USER\Desktop\MyDVLD\DVLD\BusinessLayer\obj\Debug\BusinessLayer.pdb

@@ -41,7 +41,7 @@ namespace MyDVLD
 
         private void cuurentUserToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmCurrentUserInfo frm = new frmCurrentUserInfo(clsUser.Find(clsLoginInfo.CurrentUsername).UserID);
+            Form frm = new frmShowUserInfo(clsUser.Find(clsLoginInfo.CurrentUsername).UserID);
             frm.ShowDialog();
         }
     }

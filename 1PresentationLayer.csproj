@@ -117,11 +117,11 @@
     <Compile Include="User\frmChangePassword.Designer.cs">
       <DependentUpon>frmChangePassword.cs</DependentUpon>
     </Compile>
-    <Compile Include="User\frmCurrentUserInfo.cs">
+    <Compile Include="User\frmShowUserInfo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="User\frmCurrentUserInfo.Designer.cs">
-      <DependentUpon>frmCurrentUserInfo.cs</DependentUpon>
+    <Compile Include="User\frmShowUserInfo.Designer.cs">
+      <DependentUpon>frmShowUserInfo.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
@@ -166,8 +166,8 @@
     <EmbeddedResource Include="User\frmChangePassword.resx">
       <DependentUpon>frmChangePassword.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="User\frmCurrentUserInfo.resx">
-      <DependentUpon>frmCurrentUserInfo.cs</DependentUpon>
+    <EmbeddedResource Include="User\frmShowUserInfo.resx">
+      <DependentUpon>frmShowUserInfo.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -225,6 +225,7 @@
     <Content Include="Resources\Detain 512.png" />
     <Content Include="Resources\Detain 64.png" />
     <Content Include="Resources\Detained Driving License 32.png" />
+    <None Include="Resources\don%27tPick.png" />
     <Content Include="Resources\Driver License 32.png" />
     <Content Include="Resources\Driver Main.png" />
     <Content Include="Resources\Drivers 64.png" />

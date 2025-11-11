@@ -68,8 +68,8 @@ namespace MyDVLD.User
             clsLoginInfo.IsLoggedIn = true;
 
             frmMain frmMain = new frmMain();
-            frmMain.Show();
             this.Hide();
+            frmMain.Show();
 
 
         }
@@ -109,6 +109,9 @@ namespace MyDVLD.User
                 txtPassword.Text = credentials.Password;
                 chkRememberMe.Checked = true;
             }
+            else
+                chkRememberMe.Checked = false;
+
         }
 
         public void ShowForm()

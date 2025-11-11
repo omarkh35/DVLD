@@ -29,32 +29,24 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            this.ctrlShowUserInfo1 = new MyDVLD.User.ctrlShowUserInfo();
             this.label1 = new System.Windows.Forms.Label();
             this.txtCurrentPassword = new System.Windows.Forms.TextBox();
             this.txtConfirmPassword = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.txtNewPassword = new System.Windows.Forms.TextBox();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.btnClose = new System.Windows.Forms.Button();
             this.btnSave = new System.Windows.Forms.Button();
             this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.ctrlShowUserInfo1 = new MyDVLD.User.ctrlShowUserInfo();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             this.SuspendLayout();
-            // 
-            // ctrlShowUserInfo1
-            // 
-            this.ctrlShowUserInfo1.Location = new System.Drawing.Point(0, 0);
-            this.ctrlShowUserInfo1.Name = "ctrlShowUserInfo1";
-            this.ctrlShowUserInfo1.Size = new System.Drawing.Size(978, 484);
-            this.ctrlShowUserInfo1.TabIndex = 0;
-            this.ctrlShowUserInfo1.Load += new System.EventHandler(this.ctrlShowUserInfo1_Load);
             // 
             // label1
             // 
@@ -122,6 +114,40 @@
             this.txtNewPassword.TabIndex = 139;
             this.txtNewPassword.Validating += new System.ComponentModel.CancelEventHandler(this.txtNewPassword_Validating);
             // 
+            // btnClose
+            // 
+            this.btnClose.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.btnClose.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnClose.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold);
+            this.btnClose.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnClose.Location = new System.Drawing.Point(671, 583);
+            this.btnClose.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnClose.Name = "btnClose";
+            this.btnClose.Size = new System.Drawing.Size(126, 37);
+            this.btnClose.TabIndex = 148;
+            this.btnClose.Text = "Close";
+            this.btnClose.UseVisualStyleBackColor = true;
+            this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
+            // 
+            // btnSave
+            // 
+            this.btnSave.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.btnSave.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnSave.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold);
+            this.btnSave.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnSave.Location = new System.Drawing.Point(805, 583);
+            this.btnSave.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnSave.Name = "btnSave";
+            this.btnSave.Size = new System.Drawing.Size(126, 37);
+            this.btnSave.TabIndex = 147;
+            this.btnSave.Text = "Save";
+            this.btnSave.UseVisualStyleBackColor = true;
+            this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
+            // 
+            // errorProvider1
+            // 
+            this.errorProvider1.ContainerControl = this;
+            // 
             // pictureBox2
             // 
             this.pictureBox2.Location = new System.Drawing.Point(216, 495);
@@ -149,44 +175,22 @@
             this.pictureBox3.TabIndex = 142;
             this.pictureBox3.TabStop = false;
             // 
-            // btnClose
+            // ctrlShowUserInfo1
             // 
-            this.btnClose.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.btnClose.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnClose.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold);
-            this.btnClose.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnClose.Location = new System.Drawing.Point(671, 583);
-            this.btnClose.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.btnClose.Name = "btnClose";
-            this.btnClose.Size = new System.Drawing.Size(126, 37);
-            this.btnClose.TabIndex = 148;
-            this.btnClose.Text = "Close";
-            this.btnClose.UseVisualStyleBackColor = true;
-            this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
-            // 
-            // btnSave
-            // 
-            this.btnSave.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnSave.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold);
-            this.btnSave.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnSave.Location = new System.Drawing.Point(805, 583);
-            this.btnSave.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.btnSave.Name = "btnSave";
-            this.btnSave.Size = new System.Drawing.Size(126, 37);
-            this.btnSave.TabIndex = 147;
-            this.btnSave.Text = "Save";
-            this.btnSave.UseVisualStyleBackColor = true;
-            this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
-            // 
-            // errorProvider1
-            // 
-            this.errorProvider1.ContainerControl = this;
+            this.ctrlShowUserInfo1.Location = new System.Drawing.Point(2, -3);
+            this.ctrlShowUserInfo1.Name = "ctrlShowUserInfo1";
+            this.ctrlShowUserInfo1.Size = new System.Drawing.Size(1044, 440);
+            this.ctrlShowUserInfo1.TabIndex = 149;
+            this.ctrlShowUserInfo1.Load += new System.EventHandler(this.ctrlShowUserInfo1_Load);
             // 
             // frmChangePassword
             // 
+            this.AcceptButton = this.btnSave;
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(974, 632);
+            this.CancelButton = this.btnClose;
+            this.ClientSize = new System.Drawing.Size(1052, 632);
+            this.Controls.Add(this.ctrlShowUserInfo1);
             this.Controls.Add(this.btnClose);
             this.Controls.Add(this.btnSave);
             this.Controls.Add(this.label1);
@@ -198,21 +202,18 @@
             this.Controls.Add(this.txtNewPassword);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.pictureBox3);
-            this.Controls.Add(this.ctrlShowUserInfo1);
             this.Name = "frmChangePassword";
             this.Text = "frmChangePassword";
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
 
         #endregion
-
-        private ctrlShowUserInfo ctrlShowUserInfo1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox txtCurrentPassword;
         private System.Windows.Forms.PictureBox pictureBox2;
@@ -225,5 +226,6 @@
         private System.Windows.Forms.Button btnClose;
         private System.Windows.Forms.Button btnSave;
         private System.Windows.Forms.ErrorProvider errorProvider1;
+        private ctrlShowUserInfo ctrlShowUserInfo1;
     }
 }

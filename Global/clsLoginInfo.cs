@@ -22,7 +22,9 @@ namespace MyDVLD.Global
                 IsLoggedIn = false;
             }
 
-        private static string CredentialsPath = @"C:\Users\USER\Desktop\DVLD Course19\LoginInfo.txt";
+        private static string currentDirectory = System.IO.Directory.GetCurrentDirectory();
+
+        private static string CredentialsPath = currentDirectory + "\\data.txt";
 
         public static void SaveCredentials(string username, string password)
         {
