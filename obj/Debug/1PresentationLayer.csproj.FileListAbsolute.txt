@@ -52,3 +52,4 @@ C:\Users\USER\Desktop\MyDVLD\DVLD\obj\Debug\1Present.CD3540EC.Up2Date
 C:\Users\USER\Desktop\MyDVLD\DVLD\obj\Debug\MyDVLD.exe
 C:\Users\USER\Desktop\MyDVLD\DVLD\obj\Debug\MyDVLD.pdb
 C:\Users\USER\Desktop\MyDVLD\DVLD\obj\Debug\MyDVLD.User.frmShowUserInfo.resources
+C:\Users\USER\Desktop\MyDVLD\DVLD\obj\Debug\MyDVLD.User.frmListUsers.resources

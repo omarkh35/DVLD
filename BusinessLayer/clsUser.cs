@@ -84,7 +84,7 @@ namespace BusinessLayer
 
         public static DataTable GetAllUsers()
         {
-            return clsCountriesData.GetAllCountries();
+            return clsUserData.ListPeople();
         }
 
         public static bool DeleteUser(int UserID)

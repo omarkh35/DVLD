@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB6D7442-D1D3-4253-A7D1-C2D3719D53F5}|1PresentationLayer.csproj|c:\\users\\user\\desktop\\mydvld\\dvld\\user\\ctrlshowuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AB6D7442-D1D3-4253-A7D1-C2D3719D53F5}|1PresentationLayer.csproj|solutionrelative:user\\ctrlshowuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AB6D7442-D1D3-4253-A7D1-C2D3719D53F5}|1PresentationLayer.csproj|c:\\users\\user\\desktop\\mydvld\\dvld\\user\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6D7442-D1D3-4253-A7D1-C2D3719D53F5}|1PresentationLayer.csproj|solutionrelative:user\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB6D7442-D1D3-4253-A7D1-C2D3719D53F5}|1PresentationLayer.csproj|c:\\users\\user\\desktop\\mydvld\\dvld\\user\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AB6D7442-D1D3-4253-A7D1-C2D3719D53F5}|1PresentationLayer.csproj|solutionrelative:user\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5D32DB28-3F3A-4F19-9112-07113664EC1C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\user\\desktop\\mydvld\\dvld\\businesslayer\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D32DB28-3F3A-4F19-9112-07113664EC1C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB6D7442-D1D3-4253-A7D1-C2D3719D53F5}|1PresentationLayer.csproj|c:\\users\\user\\desktop\\mydvld\\dvld\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AB6D7442-D1D3-4253-A7D1-C2D3719D53F5}|1PresentationLayer.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB6D7442-D1D3-4253-A7D1-C2D3719D53F5}|1PresentationLayer.csproj|c:\\users\\user\\desktop\\mydvld\\dvld\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB6D7442-D1D3-4253-A7D1-C2D3719D53F5}|1PresentationLayer.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB6D7442-D1D3-4253-A7D1-C2D3719D53F5}|1PresentationLayer.csproj|c:\\users\\user\\desktop\\mydvld\\dvld\\user\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB6D7442-D1D3-4253-A7D1-C2D3719D53F5}|1PresentationLayer.csproj|solutionrelative:user\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB6D7442-D1D3-4253-A7D1-C2D3719D53F5}|1PresentationLayer.csproj|c:\\users\\user\\desktop\\mydvld\\dvld\\user\\frmshowuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AB6D7442-D1D3-4253-A7D1-C2D3719D53F5}|1PresentationLayer.csproj|solutionrelative:user\\frmshowuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AB6D7442-D1D3-4253-A7D1-C2D3719D53F5}|1PresentationLayer.csproj|c:\\users\\user\\desktop\\mydvld\\dvld\\people\\frmmanagepeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6D7442-D1D3-4253-A7D1-C2D3719D53F5}|1PresentationLayer.csproj|solutionrelative:people\\frmmanagepeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB6D7442-D1D3-4253-A7D1-C2D3719D53F5}|1PresentationLayer.csproj|c:\\users\\user\\desktop\\mydvld\\dvld\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AB6D7442-D1D3-4253-A7D1-C2D3719D53F5}|1PresentationLayer.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6D7442-D1D3-4253-A7D1-C2D3719D53F5}|1PresentationLayer.csproj|c:\\users\\user\\desktop\\mydvld\\dvld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6D7442-D1D3-4253-A7D1-C2D3719D53F5}|1PresentationLayer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6D7442-D1D3-4253-A7D1-C2D3719D53F5}|1PresentationLayer.csproj|c:\\users\\user\\desktop\\mydvld\\dvld\\user\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB6D7442-D1D3-4253-A7D1-C2D3719D53F5}|1PresentationLayer.csproj|solutionrelative:user\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB6D7442-D1D3-4253-A7D1-C2D3719D53F5}|1PresentationLayer.csproj|c:\\users\\user\\desktop\\mydvld\\dvld\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,101 +46,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ctrlShowUserInfo.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\User\\ctrlShowUserInfo.cs",
-              "RelativeDocumentMoniker": "User\\ctrlShowUserInfo.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\User\\ctrlShowUserInfo.cs [Design]",
-              "RelativeToolTip": "User\\ctrlShowUserInfo.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\BusinessLayer\\clsUser.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\clsUser.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\BusinessLayer\\clsUser.cs*",
+              "RelativeToolTip": "BusinessLayer\\clsUser.cs*",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwFYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T22:20:31.67Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmShowUserInfo.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\User\\frmShowUserInfo.cs",
-              "RelativeDocumentMoniker": "User\\frmShowUserInfo.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\User\\frmShowUserInfo.cs [Design]",
-              "RelativeToolTip": "User\\frmShowUserInfo.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T22:20:13.912Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-17T18:47:51.472Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "frmChangePassword.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\User\\frmChangePassword.cs",
-              "RelativeDocumentMoniker": "User\\frmChangePassword.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\User\\frmChangePassword.cs",
-              "RelativeToolTip": "User\\frmChangePassword.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAAXAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T22:19:12.834Z",
+              "WhenOpened": "2025-11-17T18:31:52.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmChangePassword.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\User\\frmChangePassword.cs",
-              "RelativeDocumentMoniker": "User\\frmChangePassword.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\User\\frmChangePassword.cs [Design]",
-              "RelativeToolTip": "User\\frmChangePassword.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "frmListUsers.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\User\\frmListUsers.cs",
+              "RelativeDocumentMoniker": "User\\frmListUsers.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\User\\frmListUsers.cs",
+              "RelativeToolTip": "User\\frmListUsers.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwCkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T22:19:08.812Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmLogin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\Login\\frmLogin.cs",
-              "RelativeDocumentMoniker": "Login\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\Login\\frmLogin.cs [Design]",
-              "RelativeToolTip": "Login\\frmLogin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T21:26:54.574Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmLogin.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\Login\\frmLogin.cs",
-              "RelativeDocumentMoniker": "Login\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\Login\\frmLogin.cs",
-              "RelativeToolTip": "Login\\frmLogin.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAgwEsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T19:31:35.26Z",
+              "WhenOpened": "2025-11-17T18:24:55.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "frmListUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\User\\frmListUsers.cs",
+              "RelativeDocumentMoniker": "User\\frmListUsers.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\User\\frmListUsers.cs [Design]",
+              "RelativeToolTip": "User\\frmListUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:17:55.856Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "frmMain.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\frmMain.cs",
               "RelativeDocumentMoniker": "frmMain.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\frmMain.cs",
               "RelativeToolTip": "frmMain.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAmwDAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T18:47:31.641Z",
+              "WhenOpened": "2025-11-17T16:07:32.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "frmManagePeople.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\People\\frmManagePeople.cs",
+              "RelativeDocumentMoniker": "People\\frmManagePeople.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\People\\frmManagePeople.cs",
+              "RelativeToolTip": "People\\frmManagePeople.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:08:01.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "frmMain.cs [Design]",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\frmMain.cs",
               "RelativeDocumentMoniker": "frmMain.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\MyDVLD\\DVLD\\frmMain.cs [Design]",
               "RelativeToolTip": "frmMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T18:47:24.261Z",
+              "WhenOpened": "2025-11-17T15:08:10.472Z",
               "EditorCaption": " [Design]"
             }
           ]
